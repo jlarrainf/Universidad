@@ -1,2 +1,2 @@
-# Universidad-web
-Repositorio del ramo Tecnologías y Aplicaciones Web
+# Universidad
+Repositorio para ramos de la Universidad
